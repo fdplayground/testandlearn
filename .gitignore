@@ -1,0 +1,6 @@
+tempfile.txt
+#this is a comment
+.DS_Store
+*.zip
+log/*.log
+assets/
